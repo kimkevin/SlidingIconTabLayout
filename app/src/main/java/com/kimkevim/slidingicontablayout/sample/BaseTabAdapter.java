@@ -20,6 +20,8 @@ public class BaseTabAdapter extends FragmentPagerAdapter implements SlidingTabLa
             "Viedeo"
     };
 
+    private BaseActivity.MENU_TYPE menuType;
+
     public BaseTabAdapter(ActionBarActivity activity) {
         super(activity.getSupportFragmentManager());
     }
@@ -36,7 +38,11 @@ public class BaseTabAdapter extends FragmentPagerAdapter implements SlidingTabLa
 
     @Override
     public int getCount() {
-        return 2;
+        if (menuType == BaseActivity.MENU_TYPE.TAB_IMAGE) {
+            return iconRes.length;
+        } else {
+            return iconTxt.length;
+        }
     }
 
     @Override
@@ -47,6 +53,10 @@ public class BaseTabAdapter extends FragmentPagerAdapter implements SlidingTabLa
     @Override
     public int getPageIconResId(int position) {
         return iconRes[position];
+    }
+
+    public void setMenuType(BaseActivity.MENU_TYPE menuType) {
+        this.menuType = menuType;
     }
 }
 

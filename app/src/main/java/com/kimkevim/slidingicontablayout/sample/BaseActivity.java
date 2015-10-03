@@ -12,12 +12,13 @@ import com.kimkevim.slidingicontablayout.widgets.SlidingTabLayout;
 public class BaseActivity extends ActionBarActivity {
     private static final String TAG = BaseActivity.class.getSimpleName();
 
-    private enum MENU_TYPE {
+    public enum MENU_TYPE {
         TAB_IMAGE,
         TAB_TEXT
     }
 
     private ViewPager mViewPager;
+    private BaseTabAdapter mAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,7 +28,7 @@ public class BaseActivity extends ActionBarActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        BaseTabAdapter mAdapter = new BaseTabAdapter(this);
+        mAdapter = new BaseTabAdapter(this);
         mViewPager = (ViewPager) findViewById(R.id.pager);
         mViewPager.setAdapter(mAdapter);
 
@@ -35,6 +36,8 @@ public class BaseActivity extends ActionBarActivity {
     }
 
     private void initViews(MENU_TYPE type) {
+        mAdapter.setMenuType(type);
+
         SlidingTabLayout mSlidingTabLayout = (SlidingTabLayout) findViewById(R.id.tabs);
         if (type == MENU_TYPE.TAB_IMAGE) {
             mSlidingTabLayout.setCustomTabView(R.layout.tab_img_layout, R.id.tab_name_img);
