@@ -6,5 +6,5 @@ local.properties
 /build
 .idea
 SlidingIconTabLayout.iml
-/app.iml
+/app/app.iml
 
