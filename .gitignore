@@ -1,8 +1,9 @@
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
+local.properties
 .idea
+.DS_Store
+.build
+/build
+.idea
+SlidingIconTabLayout.iml
+/app.iml
+

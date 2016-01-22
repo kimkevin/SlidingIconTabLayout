@@ -44,6 +44,7 @@ public class BaseActivity extends ActionBarActivity {
         } else if (type == MENU_TYPE.TAB_TEXT){
             mSlidingTabLayout.setCustomTabView(R.layout.tab_txt_layout, R.id.tab_name_txt);
         }
+
         mSlidingTabLayout.setCustomTabColorizer(new SlidingTabLayout.TabColorizer() {
             @Override
             public int getIndicatorColor(int position) {
