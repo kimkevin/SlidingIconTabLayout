@@ -1,13 +1,13 @@
 # SlidingIconTabLayout Sample
 
-A basic sample which shows how to use SlidingTabLayout with not only Text but also Icon for tab layout. 
+A basic sample which shows how to use `SlidingTabLayout` with not only Text but also Icon for tab layout. 
 
 <img src="./screenshot/screenshot_01.png" width=200 height=355 />
 <img src="./screenshot/screenshot_02.png" width=200 height=355 />
 
 # Usage
-You can copy SlidingTabLayout file to your widgets folder with SlidingTabStrip.
-For using tab as icon, set SlidingTabLayout.TabIconProvider to your FragmentPagerAdapter as below.
+You can copy `SlidingTabLayout` file to your widgets folder with `SlidingTabStrip`.
+For using tab as icon, set `SlidingTabLayout.TabIconProvider` to your `FragmentPagerAdapter` as below.
 
 ```java
 public class BaseTabAdapter extends FragmentPagerAdapter implements SlidingTabLayout.TabIconProvider {
