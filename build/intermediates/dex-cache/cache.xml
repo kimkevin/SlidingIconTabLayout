@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/app/build/intermediates/pre-dexed/debug/classes-a0d63d4395082cdaa8427842a6da29c3d3ed5eb4.jar" />
+    </item>
+
+</items>
