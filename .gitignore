@@ -5,4 +5,5 @@ local.properties
 .build
 .idea
 *.iml
-
+library/build
+sample/build

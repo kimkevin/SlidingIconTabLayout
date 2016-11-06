@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8e06f64e51d23d8003a10b7e655a1e1e2152f25f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -25,71 +34,8 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="d19ada0de9a87d704197175db6bfd07b00b414fe">
+        sha1="f9e6e317eb390abda74c10679b1c6f3eacd9eb5b">
         <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_20d764d2ef6cc30ca69cfd1445ecdc292d394037/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/dev/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_6cb4815ebb5fe7d0e1b60d296687869848aa0cc3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ed29b9b5774bfc1adbbd43c7f717f236000b55ef/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6848ca43151a2cf335ba68f14897755565bdeee5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_f47b2253b5efec9424f07975327874c3e3c9c674/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_08cf0a5414d8bdab54143b596af988f3786ed63c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c9fec47250c2f0a1f3a11dae7b55b619a67025c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8e06f64e51d23d8003a10b7e655a1e1e2152f25f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,12 +57,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/kevin/Documents/dev/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_6cb4815ebb5fe7d0e1b60d296687869848aa0cc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
         <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_650946d1ea3aff53aeb7cfd7af3d717c001bcd4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ed29b9b5774bfc1adbbd43c7f717f236000b55ef/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,6 +93,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6848ca43151a2cf335ba68f14897755565bdeee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
@@ -138,12 +111,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_f47b2253b5efec9424f07975327874c3e3c9c674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_08cf0a5414d8bdab54143b596af988f3786ed63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
         <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_f7e52aa4f5ceef440741e8a3d531d061a8fd672d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c9fec47250c2f0a1f3a11dae7b55b619a67025c7/classes.dex" />
     </item>
     <item
         is-multidex="true"
