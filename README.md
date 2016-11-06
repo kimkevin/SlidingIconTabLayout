@@ -5,9 +5,20 @@ A basic sample which shows how to use `SlidingTabLayout` with not only Text but 
 <img src="./screenshot/screenshot_01.png" width=200 height=355 />
 <img src="./screenshot/screenshot_02.png" width=200 height=355 />
 
+# Download
+
+```java
+repositories {
+	jcenter()
+}
+
+dependencies {
+	compile 'com.github.kimkevin:slidingicontablayout:1.0.0'
+}
+```
+
 # Usage
-You can copy `SlidingTabLayout` file to your widgets folder with `SlidingTabStrip`.
-For using tab as icon, set `SlidingTabLayout.TabIconProvider` to your `FragmentPagerAdapter` as below.
+For using icon for tab, implement `SlidingTabLayout.TabIconProvider` to your `FragmentPagerAdapter` as below.
 
 ```java
 public class BaseTabAdapter extends FragmentPagerAdapter implements SlidingTabLayout.TabIconProvider {
