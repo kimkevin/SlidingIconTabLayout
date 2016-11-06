@@ -31,6 +31,6 @@ dependencies {
     compile "com.android.support:appcompat-v7:${SUPPORT_LIBRARY_VERSION}"
     testCompile "junit:junit:${JUNIT_VERSION}"
 
-    debugCompile project(path: ':library')
+    compile project(path: ':library')
 //    releaseCompile "com.github.kimkevin:slidingicontablayout:${SYNCED_VERSION_NAME}"
 }
