@@ -3,7 +3,7 @@ package com.github.kimkevin.slidingicontablayout.sample;
 import android.database.DataSetObserver;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 
 import com.github.kimkevin.slidingicontablayout.wigets.SlidingIconTabLayout;
 
@@ -22,7 +22,7 @@ public class MainTabAdapter extends FragmentPagerAdapter implements SlidingIconT
 
   private MainActivity.MENU_TYPE menuType;
 
-  public MainTabAdapter(ActionBarActivity activity) {
+  public MainTabAdapter(AppCompatActivity activity) {
     super(activity.getSupportFragmentManager());
   }
 

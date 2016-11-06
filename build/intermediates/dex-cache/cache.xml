@@ -2,157 +2,148 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/SlidingIconTabLayout/library/unspecified/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8e06f64e51d23d8003a10b7e655a1e1e2152f25f/classes.dex" />
+        sha1="6095fbf19d6719725f35f136dc54f4904284a561">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/SlidingIconTabLayout-library-unspecified_3dda918c55023fade984bcb3c58630023b564ab4.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_3a5222fe54911206037336b73aec4da69a8c4e11/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6603741048b38fdad21bfe0c5415ef0b001bcc0c/classes.dex" />
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6603741048b38fdad21bfe0c5415ef0b001bcc0c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="f9e6e317eb390abda74c10679b1c6f3eacd9eb5b">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_20d764d2ef6cc30ca69cfd1445ecdc292d394037/classes.dex" />
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_3a5222fe54911206037336b73aec4da69a8c4e11.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_b0be4fabbe4b5e48a95a620829f0017ea262d859/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b021274352347c00c2dfa80dd3828ae0e0d33292">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_646edf27985669b0c36f08a132f1223eef31bd85/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/kevin/Documents/dev/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_6cb4815ebb5fe7d0e1b60d296687869848aa0cc3/classes.dex" />
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_6cb4815ebb5fe7d0e1b60d296687869848aa0cc3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_650946d1ea3aff53aeb7cfd7af3d717c001bcd4c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ed29b9b5774bfc1adbbd43c7f717f236000b55ef/classes.dex" />
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ed29b9b5774bfc1adbbd43c7f717f236000b55ef.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_93fa1a6c77401007e613d5d86126876233ed0349/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6848ca43151a2cf335ba68f14897755565bdeee5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b5489c09c98cbeb2622e0861580a526b4f79cda2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_f47b2253b5efec9424f07975327874c3e3c9c674/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_08cf0a5414d8bdab54143b596af988f3786ed63c/classes.dex" />
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_08cf0a5414d8bdab54143b596af988f3786ed63c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_f7e52aa4f5ceef440741e8a3d531d061a8fd672d/classes.dex" />
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_6848ca43151a2cf335ba68f14897755565bdeee5.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c9fec47250c2f0a1f3a11dae7b55b619a67025c7/classes.dex" />
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_c9fec47250c2f0a1f3a11dae7b55b619a67025c7.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8e06f64e51d23d8003a10b7e655a1e1e2152f25f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_93fa1a6c77401007e613d5d86126876233ed0349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_650946d1ea3aff53aeb7cfd7af3d717c001bcd4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_b0be4fabbe4b5e48a95a620829f0017ea262d859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_f47b2253b5efec9424f07975327874c3e3c9c674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_f7e52aa4f5ceef440741e8a3d531d061a8fd672d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b5489c09c98cbeb2622e0861580a526b4f79cda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_64bd067617151470eeaf83662c7e1bda515af3a3/classes.dex" />
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_64bd067617151470eeaf83662c7e1bda515af3a3.jar" />
     </item>
 
 </items>
