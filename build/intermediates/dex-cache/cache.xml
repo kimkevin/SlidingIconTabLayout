@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/exploded-aar/com.github.kimkevin/slidingicontablayout/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6095fbf19d6719725f35f136dc54f4904284a561">
+        <dex dex="/Users/kevin/Documents/git/SlidingIconTabLayout/sample/build/intermediates/pre-dexed/release/com.github.kimkevin-slidingicontablayout-1.0.0_053bd3538d119166d7bb122288b62428a5c3f482.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kevin/Documents/dev/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
         jumboMode="false"
         optimize="true"
