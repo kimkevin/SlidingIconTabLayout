@@ -22,17 +22,17 @@ For using icon for tab, implement `SlidingTabLayout.TabIconProvider` to your `Fr
 
 ```java
 public class BaseTabAdapter extends FragmentPagerAdapter implements SlidingTabLayout.TabIconProvider {
-    private static final int iconRes[] = {
-            R.drawable.ic_action_camera,
-            R.drawable.ic_action_video
-    };
+	private static final int iconRes[] = {
+		R.drawable.ic_action_camera,
+   	R.drawable.ic_action_video
+	};
 
-    ...
+	...
     
-    @Override
-    public int getPageIconResId(int position) {
-        return iconRes[position];
-    }
+	@Override
+	public int getPageIconResId(int position) {
+		return iconRes[position];
+	}
 }
 ```
 
