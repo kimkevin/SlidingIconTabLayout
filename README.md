@@ -9,11 +9,11 @@ A basic sample which shows how to use `SlidingTabLayout` with not only Text but 
 
 ```java
 repositories {
-	jcenter()
+  jcenter()
 }
 
 dependencies {
-	compile 'com.github.kimkevin:slidingicontablayout:1.0.0'
+  compile 'com.github.kimkevin:slidingicontablayout:1.0.0'
 }
 ```
 
@@ -22,17 +22,17 @@ For using icon for tab, implement `SlidingTabLayout.TabIconProvider` to your `Fr
 
 ```java
 public class BaseTabAdapter extends FragmentPagerAdapter implements SlidingTabLayout.TabIconProvider {
-	private static final int iconRes[] = {
-		R.drawable.ic_action_camera,
-   	R.drawable.ic_action_video
-	};
+  private static final int iconRes[] = {
+    R.drawable.ic_action_camera,
+    R.drawable.ic_action_video
+  };
 
-	...
+  ...
     
-	@Override
-	public int getPageIconResId(int position) {
-		return iconRes[position];
-	}
+  @Override
+  public int getPageIconResId(int position) {
+    return iconRes[position];
+  }
 }
 ```
 
